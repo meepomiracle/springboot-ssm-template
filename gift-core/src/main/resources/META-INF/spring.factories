@@ -1,0 +1,6 @@
+# AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.xysy.gift.core.base.controller.GlobalController,\
+com.xysy.gift.core.config.DefaultFastjsonConfig,\
+com.xysy.gift.core.config.DefaultProperties,\
+com.xysy.gift.core.config.DefaultWebConfig
